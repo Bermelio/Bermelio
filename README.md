@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creando Bugs desde 2020.<br>📚 Actualmente aprendiendo MERN stack.<br>🎯 Objetivo: Crear una aplicación con gran impacto social.</p>
+<p align="left">🚀 Creando Bugs desde 2021.<br>📚 Actualmente intento aprender Java.<br>🎯 Objetivo: Crear una aplicación con gran impacto social positvo.</p>
 
 ###
 
