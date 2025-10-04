@@ -1,20 +1,20 @@
-<h1 align="left">Wep 👋 Que tal?</h1>
+<h1 align="left">¡Wep! 👋 ¿Qué onda?</h1>
 
 ###
 
-<p align="left">Mi nombre es Facu y soy un desarrollador web de Argentina</p>
+<p align="left">Soy Facu, desarrollador web de Argentina y ocasional generador de bugs 😂</p>
 
 ###
 
-<h2 align="left">Sobre mi persona</h2>
+<h2 align="left">Sobre mí</h2>
 
 ###
 
-<p align="left">🚀 Creando Bugs desde 2021.<br>📚 Actualmente intento aprender Java.<br>🎯 Objetivo: Crear una aplicación con gran impacto social positvo.</p>
+<p align="left">🚀 Codeando desde 2021.<br>📚 Aprendiendo Java entre café y errores de compilación.<br>🎯 Meta: Crear apps que dejen huella (y que funcionen, obvio).</p>
 
 ###
 
-<h2 align="left">Codeo en</h2>
+<h2 align="left">Tecnologías que uso</h2>
 
 ###
 
@@ -50,8 +50,6 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
   </a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
 </div>
-
-###
