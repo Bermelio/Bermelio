@@ -1,5 +1,5 @@
 <h1 align="center">FACUNDO NAHUEL PERALTA</h1>
-<p align="center">Córdoba, Argentina | 24 años | <a href="tel:+543564619387">+54 3564 619387</a> | <a href="mailto:facundoperalta258@gmail.com">facundoperalta258@gmail.com</a></p>
+<p align="center">Córdoba, Argentina | 24 años | <a href="mailto:facundoperalta258@gmail.com">facundoperalta258@gmail.com</a></p>
 
 ###
 
@@ -74,15 +74,17 @@
 
 ###
 
-<h2 align="center">Contactos & Redes</h2>
+<br clear="both">
+
 <div align="center">
   <a href="https://www.linkedin.com/in/facundo-nahuel-peralta/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="40" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/Bermelio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" height="40" />
+  <a href="https://es.stackoverflow.com/users/317226/aure" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
   </a>
-  <a href="mailto:facundoperalta258@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=EA4335&style=for-the-badge" height="40" />
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
 </div>
+
