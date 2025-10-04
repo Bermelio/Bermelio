@@ -4,7 +4,7 @@
 ###
 
 <h2 align="center">Fullstack Developer</h2>
-<p align="center">Apasionado por resolver problemas y crear soluciones que generen impacto positivo. Aprendizaje continuo y buenas prácticas como mantra 💻</p>
+<p align="center">Apasionado por resolver problemas y crear soluciones que generen impacto positivo 💻</p>
 
 ###
 
